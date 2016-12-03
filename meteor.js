@@ -145,6 +145,7 @@ module.exports = {
 
             // ADD the SCRIPT files
             var scripts = '__meteor_runtime_config__'+ "\n"+
+            '        <script type="text/javascript" src="/databotInit.js"></script>'+ "\n" +            
             '        <script type="text/javascript" src="'+ files['js'] +'"></script>'+ "\n";
 
             // add the meteor runtime config
