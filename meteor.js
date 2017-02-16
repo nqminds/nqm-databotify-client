@@ -89,7 +89,7 @@ module.exports = {
                     });
                 });
             } catch(e) {
-                // do nothing
+                console.log("error during move() - " + e.message);
             }            
         });
     },
