@@ -1,10 +1,10 @@
 {
   "name": "nqm-databotify-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bundles the client part of a Meteor app into a nqm databot package.",
   "author": "toby.ealden@gmail.com",
   "contributors": [
-    {  
+    {
       "name": "Fabian Vogelsteller",
       "email": "fabian@frozeman.de"
     },
